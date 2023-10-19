@@ -1,5 +1,6 @@
 
 # **Ricardo Gomes**
+**Tecnologo em Redes de Computadores**
 **DontBreakDebian**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rgomes07)](https://github.com/rgomes07)
