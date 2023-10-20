@@ -1,6 +1,6 @@
 
 # **Ricardo Gomes**
-**Tecnólogo em Redes de Computadores**
+**Tecnólogo em Redes de Computadores** 👨‍💻
 > **DontBreakDebian**
 
 
