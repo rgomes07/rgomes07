@@ -1,9 +1,5 @@
 # Ricardo Gomes 👨‍💻
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rgomes07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
 🎓 **Tecnólogo em Redes de Computadores**  
 🐧 **Linux Enthusiast | SysAdmin | Infraestrutura | Docker | DevOps em evolução**
 
